@@ -141,12 +141,11 @@ Profissional multidisciplinar com atuação em **Engenharia de Dados**, **Análi
 > Construção de relatórios interativos e análises exploratórias para suporte à tomada de decisão estratégica.
 
 <!--
-🔗 Repositório: [adicione o link aqui]
+🔗 Repositório: 
 -->
 
 <br/>
 
-> 💡 *Para adicionar os links dos repositórios, substitua os comentários acima pelo padrão:*
 > `🔗 [Ver repositório →](https://github.com/Gleybson20/nome-do-repo)`
 
 ---
