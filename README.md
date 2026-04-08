@@ -81,7 +81,6 @@ Profissional multidisciplinar com atuação em **Engenharia de Dados**, **Análi
   &nbsp;
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
 <br/>
@@ -100,6 +99,7 @@ Profissional multidisciplinar com atuação em **Engenharia de Dados**, **Análi
 <p align="left">
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
 ---
